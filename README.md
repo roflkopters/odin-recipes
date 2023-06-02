@@ -1,0 +1,1 @@
+This is my first project associated with my Odin Project Course. Though I am familiar with HTML. I am still working through this course not only to refresh my HTML skills, but also to continue to familiarise myself with GIT, Unix Shell, and other tools.
